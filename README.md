@@ -1,4 +1,4 @@
-# Practice Foxy Code
+# Code Rhetoric - Foxy Code
 
 ## Preamble
 
