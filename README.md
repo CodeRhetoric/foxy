@@ -811,7 +811,7 @@ it will not be as we imagined it.
 This is a generic bit of advice, so as a concrete example, 
 I give you the "Default Values" example.
 
-### Don't Employ Default Values Unless You Have a Really Good Reason To***
+### Don't Employ Default Values Unless You Have a Really Good Reason To
 
 This is a special form of [preparing for the future](#preparing_for_the_future), see the discussion over there.
 
